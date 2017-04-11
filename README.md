@@ -30,6 +30,9 @@ Create a dictionary called `class_data` with the following keys:
 - get the instructor name from the dictionary
 
 # Exercise Set 4: If / Else
+Given `x = "John Adams"`,
+
+- Construct an if else statement according to this logic: if "John" is in x, print "John is in x", otherwise print "John is not in x"
 - Construct an if/elif/else statement according to this logic: if "roger" is in x, print "Hi Roger!", elif the length of x is greater than 20, print "thats a long string", else print "Oh well!"
 
 # Exercise Set 5: For Loops
